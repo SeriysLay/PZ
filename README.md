@@ -17,3 +17,7 @@
  8. [Итоги исследования](../master/8.%20Итоги%20исследования)
 
 [Наш сайт](https://mfoxes.github.io/)
+
+[Диаграмма Ганта](https://app.ganttpro.com/#/project/1591011580423/gantt)
+
+[План реализации](https://trello.com/b/lJudsBAl/план-реализации-проекта-owl-eye)
