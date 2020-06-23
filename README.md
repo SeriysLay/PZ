@@ -18,6 +18,6 @@
 
 [Наш сайт](https://mfoxes.github.io/)
 
-[Диаграмма Ганта](https://app.ganttpro.com/#/project/1591011580423/gantt)
+[Диаграмма Ганта](../master/Gant/)
 
 [План реализации](https://trello.com/b/lJudsBAl/план-реализации-проекта-owl-eye)
